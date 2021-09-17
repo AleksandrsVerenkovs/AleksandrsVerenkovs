@@ -2,14 +2,14 @@
 
 ---
 
-I'm Sofware Develeper with specialization in C# and RactJs. My profesional skill set can be found below.
+I'm Sofware Develeper with specialization in C# and RactJS. My profesional skill set can be found below.
 
 __My core principle is this:__
 You need to undestand individual parts and their intertwined connections,for to be able accomplish\
 glorious <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/loki/sticker_10.png?dc40a2f6a03bbcc3eab9d6a341e07cfe&d=200x200" width="40" height="40" alt="Glorious Loki"> improvisation!
 
 ---
-🔨 My skills 
+🔨 My skills:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TS" width="50" height="50">
@@ -21,7 +21,9 @@ glorious <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/lo
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
   
 ---
-  
+💼 Social:
+
+[<img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="LinkedIn" width="80" height="80">](https://www.linkedin.com/in/aleksandrs-verenkovs/)
   
 
 <!--
