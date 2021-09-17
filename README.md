@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <iframe src="https://giphy.com/embed/iigp4VDyf5dCLRlGkm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iigp4VDyf5dCLRlGkm">via GIPHY</a></p>
 
 <!--
 **AleksandrsVerenkovs/AleksandrsVerenkovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
