@@ -1,5 +1,14 @@
-### Hi there <iframe src="https://giphy.com/embed/iigp4VDyf5dCLRlGkm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iigp4VDyf5dCLRlGkm">via GIPHY</a></p>
+### Hi there, I'm Aleksandrs Verenkovs!
 
+---
+
+I'm Sofware Develeper with specialization in C# and RactJs. My profesional skill set can be found below.
+
+__My core principle is this:__
+You need to undestand individual parts and their intertwined connections,for to be able accomplish\
+glorious <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/loki/sticker_10.png?dc40a2f6a03bbcc3eab9d6a341e07cfe&d=200x200" width="40" height="40" alt="Glorious Loki"> improvisation!
+
+---
 <!--
 **AleksandrsVerenkovs/AleksandrsVerenkovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
