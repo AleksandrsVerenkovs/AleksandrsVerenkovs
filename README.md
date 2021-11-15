@@ -24,7 +24,11 @@ glorious <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/lo
 You can contact me via <aleksandrs.verenkovs@gmail.com> or PM on LinkedIn:
 
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="LinkedIn" width="80" height="80">](https://www.linkedin.com/in/aleksandrs-verenkovs/)
-  
+
+---
+## - Latest projects
+
+- simple WhatsAppClone using React and Firebase : [WhatAppClone](https://github.com/AleksandrsVerenkovs/whats_app_clone)
 
 <!--
 **AleksandrsVerenkovs/AleksandrsVerenkovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
