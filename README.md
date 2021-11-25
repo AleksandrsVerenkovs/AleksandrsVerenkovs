@@ -29,6 +29,7 @@ You can contact me via <aleksandrs.verenkovs@gmail.com> or PM on LinkedIn:
 ## - Latest projects
 
 - simple WhatsAppClone using React and Firebase : [WhatsAppClone](https://github.com/AleksandrsVerenkovs/whats_app_clone)
+- Loan Calculator: [LoanCalculator](https://github.com/AleksandrsVerenkovs/MonthlyExpensesApp)
 
 <!--
 **AleksandrsVerenkovs/AleksandrsVerenkovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
